@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-05
+# Daily-Coding-Problem-05
 
 This problem was asked by Jane Street.
 
